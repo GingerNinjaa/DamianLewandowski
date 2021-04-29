@@ -13,5 +13,5 @@ I am A young, ambitious man who believes that in order to achieve success, you n
 </img>
 
 <br/>
-[![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=gingerninjaa&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=gingerninjaa&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)]
 </div>
