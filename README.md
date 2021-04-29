@@ -12,5 +12,6 @@ I am A young, ambitious man who believes that in order to achieve success, you n
  <img src="https://www.laneyduke.com/wp-content/uploads/2014/10/Capabilities-EDI.png" alt="edi" height="40"/> EDI 
 </img>
 
+<br/>
 [![Damian's GitHub stats](https://github-readme-stats.vercel.app/api?username=gingerninjaa&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
